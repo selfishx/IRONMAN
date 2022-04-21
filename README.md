@@ -5,7 +5,7 @@
 
 <h1 align="center"><b>𝐈𝐑𝐎𝐍𝐌𝐀𝐍</b></h1>
 
-# <p align="center"><a href="https://github.com/Selfishx/ironman"><img src="https://github-readme-stats.vercel.app/api/pin?username=Sjmxaditi&show_icons=true&theme=dracula&hide_border=true&repo=ironman"></a></p>
+# <p align="center"><a href="https://github.com/Selfishx/ironman"><img src="https://github-readme-stats.vercel.app/api/pin?username=Selfishx&show_icons=true&theme=dracula&hide_border=true&repo=ironman"></a></p>
 <p align="center">
     
     
